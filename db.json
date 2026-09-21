@@ -60,5 +60,68 @@
       "rating": 4.4,
       "description": "High-precision gaming mouse with adjustable DPI, responsive buttons, and an ergonomic design."
     }
+  ],
+
+  "books": [
+    {
+      "id": 1,
+      "title": "The Power of Habit",
+      "author": "Charles Duhigg",
+      "price": 650,
+      "category": "Self Development",
+      "rating": 4.6,
+      "stock": 20,
+      "description": "A book about how habits work and how understanding them can help people build better routines."
+    },
+    {
+      "id": 2,
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "price": 1000,
+      "category": "Self Development",
+      "rating": 4.8,
+      "stock": 25,
+      "description": "A practical guide to building good habits, breaking bad habits, and making small improvements every day."
+    },
+    {
+      "id": 3,
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "price": 1200,
+      "category": "Programming",
+      "rating": 4.7,
+      "stock": 12,
+      "description": "A programming book that explains principles and practices for writing clean, readable, and maintainable code."
+    },
+    {
+      "id": 4,
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "price": 550,
+      "category": "Fiction",
+      "rating": 4.5,
+      "stock": 18,
+      "description": "A fictional story about a young shepherd who travels in search of a treasure and discovers important lessons about life."
+    },
+    {
+      "id": 5,
+      "title": "JavaScript: The Good Parts",
+      "author": "Douglas Crockford",
+      "price": 900,
+      "category": "Programming",
+      "rating": 4.4,
+      "stock": 10,
+      "description": "A JavaScript book that focuses on the useful and powerful features of the language."
+    },
+    {
+      "id": 6,
+      "title": "Rich Dad",
+      "author": "Robert Kiyosaki",
+      "price": 600,
+      "category": "Finance",
+      "rating": 4.6,
+      "stock": 22,
+      "description": "A personal finance book that discusses different approaches to money, investing, and financial education."
+    }
   ]
 }

@@ -2,8 +2,10 @@ import React from "react";
 import ProductsCard from "../components/ProductsCard";
 
 const getProductsPromise = async () => {
-  const response = await fetch("http://localhost:5000/products", {
-    cache: "no-cache",
+
+  // SSG , SSR
+  const response = await fetch("http://127.0.0.1:5000/products", {
+    cache: "no-store",
   });
   return response.json();
 };
