@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Hello Mobile Headphones",
+      "price": 2500,
+      "category": "Electronics",
+      "brand": "Sony",
+      "stock": 15,
+      "rating": 4.5,
+      "description": "High-quality wireless headphones with clear sound, deep bass, and long battery life."
+    },
+    {
+      "id": 2,
+      "name": "Smart",
+      "price": 3500,
+      "category": "Electronics",
+      "brand": "Xiaomi",
+      "stock": 20,
+      "rating": 4.3,
+      "description": "A stylish smart watch with fitness tracking, heart rate monitoring, and multiple sports modes."
+    },
+    {
+      "id": 3,
+      "name": "Running Shoes",
+      "price": 2200,
+      "category": "Shoes",
+      "brand": "Nike",
+      "stock": 12,
+      "rating": 4.6,
+      "description": "Comfortable and lightweight running shoes designed for daily running and outdoor activities."
+    },
+    {
+      "id": 4,
+      "name": "Laptop Backpack",
+      "price": 1200,
+      "category": "Bags",
+      "brand": "Arctic Hunter",
+      "stock": 25,
+      "rating": 4.2,
+      "description": "Durable laptop backpack with multiple compartments for laptops, books, accessories, and personal items."
+    },
+    {
+      "id": 5,
+      "name": "Mechanical Keyboard",
+      "price": 4500,
+      "category": "Computer",
+      "brand": "Redragon",
+      "stock": 10,
+      "rating": 4.7,
+      "description": "RGB mechanical gaming keyboard with responsive keys, durable switches, and a comfortable design."
+    },
+    {
+      "id": 6,
+      "name": "Gaming Mouse",
+      "price": 1800,
+      "category": "Computer",
+      "brand": "Logitech",
+      "stock": 18,
+      "rating": 4.4,
+      "description": "High-precision gaming mouse with adjustable DPI, responsive buttons, and an ergonomic design."
+    }
+  ]
+}
